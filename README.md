@@ -1,1 +1,1 @@
-# vendor-micromax-AQ5001-master
+# vendor_mx
